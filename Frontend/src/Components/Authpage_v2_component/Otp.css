@@ -1,0 +1,30 @@
+.Otp_Container{
+    font-family: sans-serif;
+    height: 100vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .otpInput {
+    width: 20rem;
+    height: 2rem;
+    text-align: center;
+    font-size: 1.2rem;
+    border-radius: 5px;
+  }
+  .Otp_page_info{
+    width:23rem;
+  }
+  .Otp_button{
+    margin:1.5rem 0.4rem;
+     display: block;
+    padding: 0.8rem 0.5rem;
+    width: 20rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: #0a856c;
+    color: aliceblue;
+    border-radius: 8px;
+  }
